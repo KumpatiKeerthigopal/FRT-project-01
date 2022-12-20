@@ -17,7 +17,7 @@ This is a web based application developed for health related Tattoo based websit
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
 - Has collection of many web pages including Home, About, gallery, Services, Artists, Contact us, healthbot.
-- User can know about health information through this website.
+- User can know about Tattoo information through this website.
 - Included the feedback Survey google form to increase the scope of improvement 
 
 ## Screenshots
