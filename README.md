@@ -1,11 +1,14 @@
-# ✨ Telugu Health  ✨
+# ✨ Tattooist  ✨
 
 This is a web based application developed for health related telugu based website in india
 
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* - http://teluguhealth.southindia.cloudapp.azure.com/
+*Project Link* - https://ambitious-grass-025442400.2.azurestaticapps.net
+
+
+*Project demo video link*  - 
 
 
 ## Features and Functionalities 😃
@@ -19,7 +22,7 @@ This is a web based application developed for health related telugu based websit
 
 ## Screenshots
 
- 📸![Screenshot 2022-03-07 090754](https://user-images.githubusercontent.com/98517345/156963750-f5d694b6-a371-4b41-817f-22c8291b37da.jpg)
+
 
 
 
@@ -29,13 +32,13 @@ This is a web based application developed for health related telugu based websit
 
 
 
-![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
+
 
 
 ### Privacy policy -
 
 
-![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
+
 
 
 
