@@ -25,6 +25,7 @@ This is a web based application developed for health related Tattoo based websit
 
 
 ### Home  -
+![p1](https://user-images.githubusercontent.com/118461487/208625480-c01ae2f3-7a54-4eac-9043-e2762454e893.png)
 
 
 
@@ -39,6 +40,7 @@ This is a web based application developed for health related Tattoo based websit
    
 
 ### About Us -
+![p2](https://user-images.githubusercontent.com/118461487/208625582-5bc6323c-c4d1-416b-9601-d101d47709cf.png)
 
 
 
@@ -60,6 +62,7 @@ This is a web based application developed for health related Tattoo based websit
 
 
 ### Services  -
+![p4](https://user-images.githubusercontent.com/118461487/208626148-cb023055-e725-4e2a-bea8-a9734d21cd6a.png)
 
 
 
@@ -77,6 +80,7 @@ This is a web based application developed for health related Tattoo based websit
 
 
 ### Artists  -
+![p5](https://user-images.githubusercontent.com/118461487/208626030-d98743b7-1781-43c5-81c0-71226adb96d6.png)
 
 
 
@@ -95,6 +99,7 @@ This is a web based application developed for health related Tattoo based websit
 
 
 ### Contact us  -
+![p6](https://user-images.githubusercontent.com/118461487/208626662-33daebe9-32a5-4362-80ba-1f5a073cf158.png)
 
 
 
@@ -115,6 +120,7 @@ This is a web based application developed for health related Tattoo based websit
 
 
 ### Gallery  -
+![p3](https://user-images.githubusercontent.com/118461487/208626732-9065f3ed-b2c9-4044-a3a8-7358188f7f36.png)
 
 
 
@@ -135,6 +141,7 @@ This is a web based application developed for health related Tattoo based websit
 
 
 ### Healthbot  -
+![p7](https://user-images.githubusercontent.com/118461487/208625282-2f8693a4-c56b-43f8-b842-d2877ac8f6fe.png)
 
 
 
@@ -157,6 +164,7 @@ This is a web based application developed for health related Tattoo based websit
 
 
 ### Azure static web app  -
+![p8](https://user-images.githubusercontent.com/118461487/208625214-a88d464c-5f3a-4402-bcae-9edab68f988b.png)
 
 
 
@@ -172,7 +180,7 @@ This is a web based application developed for health related Tattoo based websit
 
 
 ### Azure health bot  -
-
+![p9](https://user-images.githubusercontent.com/118461487/208626966-3646f05b-0e4b-4383-8f7d-e4081da274a5.png)
 
 
 
