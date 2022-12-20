@@ -8,7 +8,7 @@ This is a web based application developed for health related Tattoo based websit
 *Project Link* - https://ambitious-grass-025442400.2.azurestaticapps.net
 
 
-*Project demo video link*  - 
+*Project demo video link*  -   https://youtu.be/bb8ut0D1jOE
 
 
 ## Features and Functionalities 😃
